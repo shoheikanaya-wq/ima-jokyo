@@ -1,7 +1,8 @@
 {
   "name": "いまの状況",
   "short_name": "いまの状況",
-  "start_url": "./",
+  "id": "./?app=ima2",
+  "start_url": "./?app=ima2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#141a1f",
